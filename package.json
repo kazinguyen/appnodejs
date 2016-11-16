@@ -1,0 +1,14 @@
+{
+	"name" 		: "Server-01",
+	"version" 	: "0.0.1",
+	"private" 	: "true",
+	"dependencies" : {
+		"express" 		: "*",
+		"body-parser" 	: "*",
+		"cookie-parser" : "*",
+		"multer" 		: "*",
+		"mysql"			: "*",
+		"mssql"			: "*",
+		"ejs"			: "*"
+	}
+}
